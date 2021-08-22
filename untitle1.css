@@ -107,7 +107,7 @@ html {
 
 /*-padding-inline-start: 40pxの無効化-*/
 
-.word {
+#cat ul {
     inset-inline-start: 0px;
 }
 
