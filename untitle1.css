@@ -105,6 +105,12 @@ html {
     text-align: center;
 }
 
+/*-padding-inline-start: 40pxの無効化-*/
+
+.word {
+    inset-inline-start: 0px;
+}
+
 /*-sp-*/
 
 @media screen and (max-width:600px) {
